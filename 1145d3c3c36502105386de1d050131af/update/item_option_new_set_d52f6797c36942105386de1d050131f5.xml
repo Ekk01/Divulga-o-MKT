@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>mrv_filiais</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-19 13:48:43</sys_created_on>
+        <sys_id>d52f6797c36942105386de1d050131f5</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>MRV - Filiais</sys_name>
+        <sys_package display_value="Educational" source="x_1329984_educatio">1145d3c3c36502105386de1d050131af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Educational">1145d3c3c36502105386de1d050131af</sys_scope>
+        <sys_update_name>item_option_new_set_d52f6797c36942105386de1d050131f5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-22 18:49:53</sys_updated_on>
+        <title>MRV - Filiais</title>
+        <type>one_to_many</type>
+        <version>6</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>
